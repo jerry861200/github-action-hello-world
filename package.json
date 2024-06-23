@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
-  }
+  "license": "ISC"
 }
